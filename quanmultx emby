@@ -1,0 +1,30 @@
+# ================ 自定义规则集 ==================
+# 用途：Emby / 媒体 / 直连域名 + IP
+HOST-SUFFIX,biliblili.uk,Emby
+HOST-SUFFIX,5165161.xyz,Emby
+HOST-SUFFIX,gousen.cc.cd,Emby
+HOST-SUFFIX,223789.xyz,Emby
+HOST-SUFFIX,cf.xmsl.org,Emby
+HOST-SUFFIX,white.28.al,Emby
+HOST-SUFIX,emby.my,Emby
+HOST-SUFFIX,saturdayent.top,Emby
+HOST-SUFFIX,luxrealm.space,Emby
+HOST-SUFFIX,okemby.org,Emby
+HOST-SUFFIX,892818.xyz,Emby
+HOST-SUFFIX,cynn.top,Emby
+HOST-SUFFIX,8211992.xyz,Emby
+HOST-SUFFIX,764374236.xyz,Emby
+HOST-SUFIX,83787.de,Emby
+HOST-SUFFIX,reily999.top,Emby
+HOST-SUFFIX,paoluma.de,Emby
+HOST-SUFFIX,552554.xyz,Emby
+HOST-SUFFIX,liminalnet.pro,Emby
+HOST-SUFFIX,sadchicktv.com,Emby
+HOST-SUFFIX,miraiemby.com,Emby
+HOST-SUFFIX,jiedaibao.gs,Emby
+HOST-SUFFIX,fufuemby.top,Emby
+HOST-SUFFIX,sanluoluo.com,Emby
+HOST-SUFFIX,luminoustrace.xyz,Emby
+HOST-SUFFIX,mooguu.top,Emby
+# ================ IP 类 ================
+IP-CIDR,120.24.31.23/32,Emby,no-resolve
