@@ -1,5 +1,6 @@
 # ================ 自定义规则集 ==================
 # 用途：Emby / 媒体 / 直连域名 + IP
+HOST-SUFFIX,dpdns.org,Emby
 HOST-SUFFIX,biliblili.uk,Emby
 HOST-SUFFIX,5165161.xyz,Emby
 HOST-SUFFIX,gousen.cc.cd,Emby

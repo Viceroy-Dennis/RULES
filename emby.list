@@ -2,6 +2,7 @@
 # 用途：Emby / 媒体 / 直连域名 + IP（按你提供的列表整理）
 # 规则顺序已优化，DOMAIN-SUFFIX 放前面，IP 放后面
 
+DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,biliblili.uk
 DOMAIN-SUFFIX,5165161.xyz
 DOMAIN-SUFFIX,gousen.cc.cd
